@@ -1,7 +1,7 @@
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ifky06&count_private=true&theme=tokyonight&showicons=true)]()			 -->
 
 <h1 align="center">Hi 👋, I'm Ifky06</h1>
-<h3 align="center">I'm just a student who learning a program code || I'm just an innocent</h3>
+<h3 align="center">I'm just an innocent student who learning a program code</h3>
 
 
 ---
