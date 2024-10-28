@@ -1,3 +1,4 @@
+![Header](./banner.png)
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ifky06&count_private=true&theme=tokyonight&showicons=true)]()			 -->
 
 <h1 align="center">Hi 👋, I'm Ifky06</h1>
